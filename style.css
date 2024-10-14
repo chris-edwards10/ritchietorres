@@ -1,0 +1,22 @@
+* {font-family: Futura}
+* {text-align: center;}
+* {background-color: lightblue;}
+h1 {
+background-color: whitesmoke;
+font-size: 55px;
+margin-top: 20px}
+.container {margin: auto; 
+	max-width: 
+	600px; 
+	background-color: whitesmoke;
+ padding: 40px;
+margin-top: 30px;}
+img {max-width: 100%;
+margin-top: 20px
+background-color: whitesmoke;}
+p {background-color: whitesmoke;}
+figcaption {color: gray; 
+	background-color: whitesmoke;
+font-size: 12px}
+h2 {padding: 10px}
+a {background-color: whitesmoke;}
